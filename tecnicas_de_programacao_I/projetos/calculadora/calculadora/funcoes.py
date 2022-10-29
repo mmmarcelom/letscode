@@ -3,3 +3,5 @@ def divisao(a,b):
     if b == 0: return "Erro: Divisão por zero"
     return a/b
         
+def soma(a, b):
+    return int(a) + int(b)
