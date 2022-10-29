@@ -5,3 +5,7 @@ def divisao(a,b):
         
 def soma(a, b):
     return int(a) + int(b)
+
+
+def subtracao(a,b):
+    return int(a) - int(b)
