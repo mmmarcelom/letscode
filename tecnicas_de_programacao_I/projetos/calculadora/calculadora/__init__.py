@@ -1,2 +1,2 @@
 def calcule():
-  soma(1, 2)
+  print(soma(1, 2))
